@@ -1,0 +1,5 @@
+<resources>
+
+    <dimen name="slide_content_width">150dp</dimen>
+
+</resources>

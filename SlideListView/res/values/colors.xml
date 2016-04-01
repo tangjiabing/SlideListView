@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="slide_listview_item_bg_selected">#00bfff</color>
+    <color name="slide_listview_item_bg">#ffffff</color>
+    <color name="slideview_bg">#ffffff</color>
+
+</resources>

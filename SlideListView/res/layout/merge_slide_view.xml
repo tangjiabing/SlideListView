@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <FrameLayout
+        android:id="@+id/itemContentView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </FrameLayout>
+
+    <FrameLayout
+        android:id="@+id/slideContentView"
+        android:layout_width="@dimen/slide_content_width"
+        android:layout_height="match_parent" >
+    </FrameLayout>
+
+</merge>
